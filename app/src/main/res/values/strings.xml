@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyGameApplication</string>
+    <string name="buttonText">Choose</string>
+
+    <string-array name="games">
+        <item>Snake</item>
+        <item>Sea battle</item>
+    </string-array>
+
+    <string-array name="games_description">
+        <item>Описание игры №1</item>
+        <item>Описание игры №2</item>
+    </string-array>
+</resources>
